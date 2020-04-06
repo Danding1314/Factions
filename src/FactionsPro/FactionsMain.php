@@ -28,7 +28,7 @@ use pocketmine\utils\Config;
 use pocketmine\block\Snow;
 use pocketmine\math\Vector3;
 
-class FactionMain extends PluginBase implements Listener {
+class src\FactionsPro\FactionMain extends PluginBase implements Listener {
 
     public $db;
     public $prefs;
